@@ -1,7 +1,9 @@
 # Knee-growth-plate-detection
-detecting multiple signals of knee growth plate
+
+Detecting multiple signals of Knee growth plate
 
 # Signals
+
 |Signal|Color channel|Description|
 |------|---|---|
 |AC|1|17D1BAC,10D1CAC|
